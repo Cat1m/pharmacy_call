@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.hungduy.pharmacycall.app-release-66:/xml_data_extraction_rules.xml.flat",
+        "source": "com.hungduy.pharmacycall.app-main-67:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.hungduy.pharmacycall.app-release-66:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.hungduy.pharmacycall.app-main-67:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.hungduy.pharmacycall.app-release-66:/xml_backup_rules.xml.flat",
+        "source": "com.hungduy.pharmacycall.app-main-67:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.hungduy.pharmacycall.app-release-66:/drawable_ic_logo_placeholder.xml.flat",
+        "source": "com.hungduy.pharmacycall.app-main-67:/drawable/ic_logo_placeholder.xml"
+    }
+]

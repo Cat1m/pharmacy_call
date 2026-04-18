@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color error
+color on_primary
+color primary
+color secondary_blue
+color surface
+drawable ic_logo_placeholder
+mipmap ic_launcher
+string app_name
+string btn_back
+string btn_call_patient
+string btn_cancel
+string btn_logout
+string btn_manual_input
+string btn_ok
+string btn_retry
+string btn_scan_qr
+string btn_send_message
+string confirm_call_patient
+string confirm_send_message
+string detail_title
+string dialog_manual_title
+string error_no_quay
+string login_status_connecting
+string login_status_failed
+string login_status_ready
+string scan_empty
+string scan_title
+string select_quay
+style Theme.App.Starting
+style Theme.PharmacyCallApp
+xml backup_rules
+xml data_extraction_rules

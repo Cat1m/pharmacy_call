@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pharmacy Call</string>
+    <string name="login_status_connecting">Đang kết nối...</string>
+    <string name="login_status_ready">Quét QR bằng HisMobile để đăng nhập</string>
+    <string name="login_status_failed">Kết nối thất bại. Thử lại</string>
+    <string name="btn_retry">Thử lại</string>
+    <string name="scan_title">Toa Thuốc</string>
+    <string name="scan_empty">Chưa có dữ liệu, vui lòng quét QR toa thuốc</string>
+    <string name="btn_scan_qr">Quét QR Toa Thuốc</string>
+    <string name="btn_manual_input">Nhập Mã Toa</string>
+    <string name="dialog_manual_title">Nhập mã toa thuốc</string>
+    <string name="detail_title">Chi tiết Toa Thuốc</string>
+    <string name="select_quay">Chọn Quầy Thuốc</string>
+    <string name="btn_send_message">Nhắn tin</string>
+    <string name="btn_call_patient">Gọi tên bệnh nhân</string>
+    <string name="confirm_send_message">Xác nhận gửi tin nhắn lấy thuốc?</string>
+    <string name="confirm_call_patient">Xác nhận gọi bệnh nhân?</string>
+    <string name="error_no_quay">Vui lòng chọn quầy thuốc</string>
+    <string name="btn_logout">Đăng xuất</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancel">Hủy</string>
+    <string name="btn_back">Quay lại</string>
+</resources>

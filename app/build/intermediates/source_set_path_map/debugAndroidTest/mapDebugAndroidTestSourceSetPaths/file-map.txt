@@ -1,0 +1,5 @@
+com.hungduy.pharmacycall.test.app-androidTest-0 D:\my_project\Android\pharmacy_caller\app\build\generated\res\resValues\androidTest\debug
+com.hungduy.pharmacycall.test.app-updated_navigation_xml-1 D:\my_project\Android\pharmacy_caller\app\build\generated\updated_navigation_xml\debugAndroidTest
+com.hungduy.pharmacycall.test.app-mergeDebugAndroidTestResources-2 D:\my_project\Android\pharmacy_caller\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.hungduy.pharmacycall.test.app-mergeDebugAndroidTestResources-3 D:\my_project\Android\pharmacy_caller\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.hungduy.pharmacycall.test.app-debugAndroidTest-4 D:\my_project\Android\pharmacy_caller\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

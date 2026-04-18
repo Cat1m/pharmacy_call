@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.hungduy.pharmacycall.app-mergeReleaseResources-64:/values-v29/values-v29.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Chien\\.gradle\\caches\\8.13\\transforms\\d3380166f1bd6d47695b9238d85ae39d\\transformed\\core-splashscreen-1.0.1\\res\\values-v29\\values-v29.xml",
+                    "from": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,374",
+                        "endLines": "6,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "369,464"
+                    }
+                }
+            ]
+        }
+    ]
+}
